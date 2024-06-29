@@ -36,10 +36,10 @@ body, html {
 }
 
 body {
-  background-image: url('assets/bg.jpg'); /* Replace with your PNG image path */
-  background-size: cover; /* Scale to cover the entire viewport */
-  background-repeat: no-repeat; /* Prevent image repetition */
-  background-attachment: fixed; /* Keep the image fixed while scrolling */
+  background-image: url('assets/bg.jpg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
 }
 
 
